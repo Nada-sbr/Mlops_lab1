@@ -1,4 +1,4 @@
-Ce projet est un lab pratique qui démontre les étapes fondamentales de la création d'un pipeline MLOps complet. Il couvre la structuration du projet, la gestion des dépendances, l'entraînement d'un modèle, l'évaluation, le déploiement en tant qu'API, et la surveillance rudimentaire de la dérive des données.
+Ce projet est un lab pratique qui démontre les étapes fondamentales de la création d'un pipeline MLOps complet. Il couvre la structuration du projet, la gestion des dépendances, l'entraînement d'un modèle, l'évaluation, le déploiement en tant qu'API et la surveillance rudimentaire de la dérive des données.
 
 **Étape 1 : Initialiser la structure du projet**
 
